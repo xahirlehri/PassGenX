@@ -27,5 +27,5 @@ This project is licensed under the MIT License.
 
 # Acknowledgements
 
-PassGenX was inspired by the need for strong password protection in today's digital landscape. Special thanks to the open-source community and the Python programming language.****
+PassGenX was inspired by the need for strong password protection in today's digital landscape. Special thanks to the open-source community and the Python programming language.
 
