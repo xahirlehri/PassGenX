@@ -21,9 +21,11 @@ Welcome to PassGenX, your ultimate solution for generating secure and complex pa
    ```sh
    git clone https://github.com/xahirlehri/passgenx.git
 
-License
+# License
 
 This project is licensed under the MIT License.
-Acknowledgements
 
-PassGenX was inspired by the need for strong password protection in today's digital landscape. Special thanks to the open-source community and the Python programming language.
+# Acknowledgements
+
+PassGenX was inspired by the need for strong password protection in today's digital landscape. Special thanks to the open-source community and the Python programming language.****
+
